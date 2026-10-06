@@ -121,9 +121,6 @@ This project demonstrates common auth patterns for **learning and portfolios**. 
 
 Use strong `JWT_SECRET_KEY`, enable `COOKIE_SECURE=true` behind HTTPS in production, and configure real SMTP/Redis.
 
-## Screenshots
-
-_Add screenshots of the landing page, login, OTP verification, and dashboard here._
 
 ## Future Improvements
 
